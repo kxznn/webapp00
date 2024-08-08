@@ -5,4 +5,5 @@ import streamlit as st
 
 st.title("Olá, Kaua e Murilo")
 st.header( 'Turma 2EI-SESI' )
-st.subheader( 'NOIS É ZIKA E O RESTO É BURACO!!' )
+st.subheader( 'sesi - senai' )
+st.subheader( 'NOIS É ZIKA E O RESTO É BURACO!!')
